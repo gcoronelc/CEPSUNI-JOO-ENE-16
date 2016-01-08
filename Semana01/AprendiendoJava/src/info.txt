@@ -1,1 +1,1 @@
-Carpeta raíz
+Carpeta raíz de la aplicación.
