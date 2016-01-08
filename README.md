@@ -9,4 +9,11 @@ Eric Gustavo Coronel Castillo
 www.desarrollasoftware.com
 gcoronelc@gmail.com
 
-
+# SEMANA 01
+- Abstracción
+- Clase
+- Objeto
+- Atricutos
+- Métodos
+- Operador new
+- Proyecto ejemplo
