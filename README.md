@@ -20,3 +20,4 @@ Curso de Java Orientado a Objetos dictado en CEPS-UNI en Enero 2016.
 - Métodos
 - Operador new
 - Proyecto ejemplo
+- Ejercicio propuesto
