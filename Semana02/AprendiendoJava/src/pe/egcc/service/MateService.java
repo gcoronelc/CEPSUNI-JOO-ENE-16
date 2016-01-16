@@ -17,4 +17,12 @@ public class MateService {
     return potencia;
   }
   
+  public double getPotencia(double base, int exponente){
+    double potencia = 1;
+    for (int i = 1; i <= exponente; i++) {
+      potencia *= base;      
+    }   
+    return potencia;
+  }
+  
 }

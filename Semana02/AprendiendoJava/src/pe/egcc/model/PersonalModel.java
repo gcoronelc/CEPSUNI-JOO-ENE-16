@@ -15,18 +15,24 @@ public class PersonalModel {
   private boolean casado;
 
   public PersonalModel() {
-    this.nombre = "Claudia";
-    this.dni = "70653478";
-    this.telefono = "995678345";
-    this.casado = false;
+    // this.nombre = "Claudia";
+    // this.dni = "70653478";
+    // this.telefono = "995678345";
+    // this.casado = false;
+    this("Claudia", "70653478", "984576893", false);
+  }
+
+  public PersonalModel(String nombre, String dni, String telefono, boolean casado) {
+    this.nombre = nombre;
+    this.dni = dni;
+    this.telefono = telefono;
+    this.casado = casado;
   }
 
   @Override
   protected void finalize() throws Throwable {
     System.err.println("Chau objeto.");
   }
-  
-  
 
   public String getNombre() {
     return nombre;
