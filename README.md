@@ -1,6 +1,7 @@
 # CEPSUNI JAVA ORIENTADO A OBJETOS
 - Curso de Java Orientado a Objetos dictado en CEPS-UNI
 - Fecha:  Enero 2016.
+- Horario: Viernes de 5 pm a 10 pm
 - Aula: 403
 
 # INSTRUCTOR
