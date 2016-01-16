@@ -24,8 +24,10 @@
 
 # SEMANA 02: MIENBROS DE CLASE
 
+- Miembros de Clase
 - http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-02.html
 
-
+- Sobrecarga
+- http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-03-sobrecarga.html
 
 
