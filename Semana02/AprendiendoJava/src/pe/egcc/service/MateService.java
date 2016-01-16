@@ -13,7 +13,7 @@ public class MateService {
     long potencia = 1;
     for (int i = 1; i <= exponente; i++) {
       potencia *= base;      
-    }
+    }   
     return potencia;
   }
   
