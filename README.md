@@ -23,12 +23,26 @@
 - Proyecto ejemplo
 - Ejercicio propuesto
 
-# SEMANA 02: MIENBROS DE CLASE
+# SEMANA 02:
 
 - Miembros de Clase
 - http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-02.html
 
 - Sobrecarga
 - http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-03-sobrecarga.html
+
+# SEMANA 03:
+
+- Sobrecarga
+- http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-03-sobrecarga.html
+
+- Alcance de Clase
+- http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-04-alcance-de-clase-y.html
+
+
+
+ 
+
+
 
 
