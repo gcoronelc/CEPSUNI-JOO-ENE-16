@@ -1,5 +1,7 @@
 package pe.egcc.ventaapp;
 
+import pe.egcc.ventaapp.view.VentaApp;
+
 /**
  *
  * @author Eric Gustavo Coronel Castillo
@@ -13,7 +15,7 @@ public class ClasePrincipal {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        VentaApp.main(null);
     }
 
 }
