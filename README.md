@@ -40,6 +40,20 @@
 - http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-04-alcance-de-clase-y.html
 
 
+# SEMANA 04
+
+- Alcance de Clase
+- http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-04-alcance-de-clase-y.html
+
+- Herencia
+- http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-05-herencia.html
+
+
+
+
+
+
+
 
  
 
